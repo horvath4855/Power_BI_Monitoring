@@ -5,6 +5,10 @@
 			"token_url": {
 				"type": "string",
 				"value": "http://login.microsoftonline.com/Berner International/oauth2/v2.0/authorize?"
+			},
+			"kv_app_secret_url": {
+				"type": "string",
+				"value": "https://kv-bi-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret/4db8a9c21c2b47beb25e78c5a70c5076"
 			}
 		}
 	},
