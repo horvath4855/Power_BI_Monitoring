@@ -1,11 +1,11 @@
 {
 	"token_url": {
 		"type": "string",
-		"value": "http://login.microsoftonline.com/Berner International/oauth2/v2.0/authorize?"
+		"value": "https://login.microsoftonline.com/f886c07d-96dc-4b96-abd7-6b6838d702c6/oauth2/token"
 	},
 	"kv_app_secret_url": {
 		"type": "string",
-		"value": "https://kv-bi-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret/4db8a9c21c2b47beb25e78c5a70c5076"
+		"value": "https://kv-bi-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret/4db8a9c21c2b47beb25e78c5a70c5076/?api-version=7.4"
 	},
 	"app_client_id": {
 		"type": "string",
