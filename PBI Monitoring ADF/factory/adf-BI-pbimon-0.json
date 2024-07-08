@@ -4,7 +4,7 @@
 		"globalParameters": {
 			"token_url": {
 				"type": "string",
-				"value": "http://login.microsoftonline.com/f886c07d-96dc-4b96-abd7-6b6838d702c6/oauth2/token"
+				"value": "http://login.microsoftonline.com/f886c07d-96dc-4b96-abd7-6b6838d702c6/v2.0/oauth2/token"
 			},
 			"kv_app_secret_url": {
 				"type": "string",
