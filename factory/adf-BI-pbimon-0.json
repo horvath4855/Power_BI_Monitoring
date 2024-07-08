@@ -1,0 +1,9 @@
+{
+	"name": "adf-BI-pbimon-0",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea3448f3-4084-400d-a717-3c476d3f1505",
+		"tenantId": "f886c07d-96dc-4b96-abd7-6b6838d702c6"
+	}
+}
