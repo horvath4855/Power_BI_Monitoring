@@ -1,5 +1,13 @@
 {
 	"name": "adf-BI-pbimon-0",
+	"properties": {
+		"globalParameters": {
+			"token_url": {
+				"type": "string",
+				"value": "http://login.microsoftonline.com/Berner International/oauth2/v2.0/authorize?"
+			}
+		}
+	},
 	"location": "northeurope",
 	"identity": {
 		"type": "SystemAssigned",
