@@ -9,6 +9,10 @@
 			"kv_app_secret_url": {
 				"type": "string",
 				"value": "https://kv-bi-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret/4db8a9c21c2b47beb25e78c5a70c5076"
+			},
+			"app_client_id": {
+				"type": "string",
+				"value": "54ea9ab6-811f-4499-9781-e0d2d6c1d7e8"
 			}
 		}
 	},
